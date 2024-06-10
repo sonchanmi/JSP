@@ -1,0 +1,12 @@
+package com.ohgiraffers.eljst.model.dto;
+
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+
+/**
+ * Servlet implementation class MemberDTO
+ */
+public class MemberDTO extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+}
